@@ -37,7 +37,7 @@ A comprehensive system management tool for ZeroLinux, providing an easy-to-use i
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/zerolinux/zerolinux-tool.git
+git clone https://github.com/Zerolinux360/Tools-ZeroLinux.git
 cd zerolinux-tool
 ```
 
